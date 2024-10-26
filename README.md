@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imrankhan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Angular Front End
+- 🌱 I’m currently doing project with MySQL+C#+Angular Front End
 - 💞️ I’m looking to collaborate on new Projects
 - 📫 How to reach me on email codeproimran@gmail.com  
 - 😄 Pronouns: Noun
